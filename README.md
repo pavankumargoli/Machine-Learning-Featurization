@@ -20,3 +20,4 @@ Number of Attributes/Columns in data: 10
 ## Objective
 
 This project is focused on applying TSNE and implement the techniques like BAG OF WORDS, Bi-Grams and n-Grams, TF-IDF, Word2Vec, Converting text into vectors using wAvg W2V, TFIDF-W2V, Avg W2v, TFIDF weighted W2v
+
