@@ -1,6 +1,6 @@
-# Machine Learning Featurization
+# Machine Learning Featurization and Applying TSNE
 
-Implement the featurization on Amazon Fine Food Reviews Data 
+Implement the featurization and applying TSNE on Amazon Fine Food Reviews Data 
 
 # Amazon Fine Food Reviews Analysis
 
@@ -19,4 +19,4 @@ Number of Attributes/Columns in data: 10
 
 ## Objective
 
-This project is focused to aoolied technicques like BAG OF WORDS, Bi-Grams and n-Grams, TF-IDF, Word2Vec, Converting text into vectors using wAvg W2V, TFIDF-W2V, Avg W2v, TFIDF weighted W2v
+This project is focused on applying TSNE and implement the techniques like BAG OF WORDS, Bi-Grams and n-Grams, TF-IDF, Word2Vec, Converting text into vectors using wAvg W2V, TFIDF-W2V, Avg W2v, TFIDF weighted W2v
